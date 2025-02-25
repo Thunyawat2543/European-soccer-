@@ -7,7 +7,7 @@ Data Source : https://www.kaggle.com/datasets/hugomathien/soccer/data
 
 Part 1: Football & Lionel Messi
 
-Part 2: ทำไมสโมสร FC Barcelono ถึงเป็นที่นิยม
+Part 2: ทำไมสโมสร FC Barcelono ถึงเป็นที่ชื่นชอบของแฟนบอล
 
 # Part 1: Football & Lionel Messi
 Football คืออะไร
@@ -69,7 +69,7 @@ Football คืออะไร
 
 ![image](https://github.com/user-attachments/assets/f4e8e5d5-5995-4e5b-8d9d-42205b3958cb)
 
-# Part 2: ทำไมสโมสร FC Barcelono ถึงเป็นที่นิยม
+# Part 2: ทำไมสโมสร FC Barcelono ถึงเป็นที่ชื่นชอบของแฟนบอล
 
  FC Barcelona แสดงความเหนือชั้นอย่างชัดเจนด้วยจำนวนชัยชนะที่สูงถึง 234 ครั้ง ซึ่งมากที่สุดในกลุ่ม 5 ทีมชั้นนำนี้ทิ้งห่างเรอัล มาดริดไป 6 ครั้ง บ่งบอกว่าในช่วงเวลาที่เก็บสถิติบาร์เซโลนาเป็นทีมที่กวาดชัยชนะได้อย่างต่อเนื่องและสม่ำเสมอมากที่สุด ซึ่งทำให้แฟนบอลทั่วโลกยกให้บาร์เซโลนาเป็นหนึ่งในทีมที่ดีที่สุดตลอดกาล
 

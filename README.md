@@ -1,5 +1,5 @@
 # Mini-Project
-# สโมสร FC Barcelona กับชายที่ชื่อ Lionel Messi
+# “เจาะลึก ‘เมสซี’ กับ ‘บาร์เซโลนา’ : ข้อมูลเบื้องหลังความยิ่งใหญ่ในโลกฟุตบอล”
 
 Data Source : https://www.kaggle.com/datasets/hugomathien/soccer/data
 
@@ -28,15 +28,18 @@ Football คืออะไร
 
 ตำแหน่ง
 
-1.ผู้รักษาประตู (Goalkeeper – GK)
+1.ผู้รักษาประตู (Goalkeeper – GK) สีเหลือง
 
-2.กองหลัง (Defenders – DF)
+2.กองหลัง (Defenders – DF) สีน้ำเงิน 
 
-3.กองกลาง (Midfielders – MF)
+3.กองกลาง (Midfielders – MF) สีเขียว
 
-4.กองหน้า (Forwards – FW)
+4.กองหน้า (Forwards – FW) สีแดง
 
-<img src="https://github.com/user-attachments/assets/5ee10947-97bf-41ff-bc27-5377d7467cd3" alt="posiciones" width="500">
+![image](https://github.com/user-attachments/assets/86f3bbdd-713f-4b1c-b1a5-b4f747223302)
+
+
+อ้างอิง : https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/31-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B/9497-abbreviations-used-to-refer-to-football-positions.html
 
 
 #
